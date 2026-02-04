@@ -5,7 +5,7 @@ import sklearn
 
 
 
-st.title("Car Resale Price Prediction")
+st.title("Car Resale Price Prediction, By Satya Sahani")
 
 cars_df = pd.read_csv('cars24-car-price.csv')
 
