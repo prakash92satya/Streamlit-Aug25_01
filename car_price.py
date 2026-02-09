@@ -6,6 +6,7 @@ import sklearn
 
 
 st.title("Car Resale Price Prediction")
+st.subheader(" Sanju :blue[cool] :sunglasses:")
 st.text_input("Created by ", "Satya Sahani")
 cars_df = pd.read_csv('cars24-car-price.csv')
 
